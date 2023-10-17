@@ -1,4 +1,4 @@
-# command
+# Patron de diseño Command
 Patrón seleccionado: Command
 
 Descripción del proyecto: Se trata sobre dos botones que contienen el comportamiento de generar un efecto de fade al otro botón e ir a una escena nueva mediante la acción del clic. La idea en si es recibir comandos asincronicos , que se almacenaran en una lista y se ejecutaran uno atrás del otro, es decir cuando termine la ejecución del comando actual. 
